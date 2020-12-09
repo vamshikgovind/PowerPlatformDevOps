@@ -1,0 +1,27 @@
+[
+    {
+        "new":  "https://siteurl",
+        "Property":  "TenantUrl",
+        "old":  "https://siteurl"
+    },
+    {
+        "new":  "sites/relativeurl",
+        "Property":  "SiteUrl",
+        "old":  "sites/relativeurl"
+    },
+    {
+        "new":  "listguid",
+        "Property":  "ConfigListId",
+        "old":  "listguid"
+    },
+    {
+        "new":  "viewguid",
+        "Property":  "ConfigAllItemsView",
+        "old":  "viewguid"
+    },
+    {
+        "new":  "webguid",
+        "Property":  "SomeWebId",
+        "old":  "webguid"
+    }
+]
